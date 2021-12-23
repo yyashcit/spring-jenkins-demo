@@ -13,7 +13,7 @@ class SpringJenkinsDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("test case executing .........");
-		logger.info("test case executing 2nd time.........");
+		
 assertEquals(true, true	);
 	}
 
